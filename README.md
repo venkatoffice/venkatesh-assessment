@@ -1,6 +1,9 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+step1: Clone the repo
+step2: npm install
+step3: npm start
+step4: add email id in local storage (Not a mandatory)
+ex: user_mail_id : 'exxx@ddd.com'
 
 ## Available Scripts
 
