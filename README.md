@@ -1,9 +1,10 @@
-# Getting Started with Create React App
-step1: Clone the repo
-step2: npm install
-step3: npm start
-step4: add email id in local storage (Not a mandatory)
-ex: user_mail_id : 'exxx@ddd.com'
+# Assessment 
+
+step1: Clone the repo.\
+step2: npm install.\
+step3: npm start.\
+step4: add email id in local storage (Not a mandatory).\
+ex: user_mail_id : 'exxx@ddd.com'.\
 
 ## Available Scripts
 
