@@ -11,7 +11,7 @@ const Movie = ({
     movie_name
 }) => {
     return (
-    <div className="card movie" style={{width: '15rem'}}>
+    <div className="card movie" style={{'max-width': '15rem'}}>
         <img className="card-img-top" src={thumbnail_url} alt={movie_name} />
         <div className="card-body">
             <h5 className="card-title">{movie_name}</h5>

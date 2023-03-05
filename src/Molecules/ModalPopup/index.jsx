@@ -99,7 +99,7 @@ const ModalPopup = ({
           <Button variant="secondary" onClick={handleClose}>
             Close
           </Button>
-          <Button variant="primary" onClick={handleSubmit}>
+          <Button disabled={bookingSeats.length === 0} variant="primary" onClick={handleSubmit}>
             Book
           </Button>
         </Modal.Footer>
